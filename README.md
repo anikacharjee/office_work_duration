@@ -34,6 +34,5 @@ Fully responsive for mobile browsers. Optimized for quick input and fast results
 No installation needed — just open the `index.html` file in your browser.
 
 ## 📁 File Structure
-├── index.html       # Main HTML page with Bootstrap structure
-├── style.css        # Optional custom styling
-└── script.js        # Time calculation logic and input handling
+<img width="715" height="85" alt="image" src="https://github.com/user-attachments/assets/b4414746-5ccf-4d3c-8d62-3df324485ef0" />
+
